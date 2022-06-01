@@ -1,0 +1,25 @@
+npm init -y -> começar o projeto
+tsc --init -> cria o arquivo de configuração typescript
+
+dependências principais: npm install config dotenv express express-validator moongose morgan winston
+
+config -> manusear as configurações da aplicação
+dotenv -> variáveis de ambiente como usuário e senha de banco de dados
+express -> framework principal da API
+express-validator -> validações do backend, impedindo que os registros sejam inseridos de forma errada
+moongose -> para trabalhar com banco de dados em cima do MongoDB, não precisa instalar o MongoDB,
+usaremos o servidor Atlas em nuvem
+morgan -> pacotes de relatório
+winston -> integrado com morgan faz o trabalho de log de aplicação
+
+dependências de desenvolvimento: npm install @types/config @types express @types/mongoose @types/morgan @types/node ts-node-dev typescript --save-dev
+
+--save -> salva as dependencias separadas com o desenvolvimento
+
+
+-> no package.json: criar o script "dev": "ts-node-dev --respawn --transpile-only src/app.ts"
+
+src/app.ts = arquivo que queremos iniciar a aplicação
+
+-> npm run dev
+ativa o script
