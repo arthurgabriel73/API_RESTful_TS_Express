@@ -1,0 +1,79 @@
+2022-06-01 19:09:39:939 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 19:10:47:1047 [31merror[39m: [31mThe connection gone wrong.[39m
+2022-06-01 19:10:47:1047 [31merror[39m: [31mError: MongooseServerSelectionError: connection <monitor> to 54.94.77.23:27017 closed[39m
+2022-06-01 19:10:47:1047 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 19:11:32:1132 [31merror[39m: [31mThe connection gone wrong.[39m
+2022-06-01 19:11:32:1132 [31merror[39m: [31mError: MongooseServerSelectionError: connection <monitor> to 54.94.77.23:27017 closed[39m
+2022-06-01 19:11:32:1132 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 19:13:21:1321 [31merror[39m: [31mThe connection gone wrong.[39m
+2022-06-01 19:13:21:1321 [31merror[39m: [31mError: MongooseServerSelectionError: connection <monitor> to 54.232.255.199:27017 closed[39m
+2022-06-01 19:13:21:1321 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 19:14:18:1418 [31merror[39m: [31mThe connection gone wrong.[39m
+2022-06-01 19:14:18:1418 [31merror[39m: [31mError: MongooseServerSelectionError: connection <monitor> to 54.94.77.23:27017 closed[39m
+2022-06-01 19:14:18:1418 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 19:15:46:1546 [31merror[39m: [31mThe connection gone wrong.[39m
+2022-06-01 19:15:46:1546 [31merror[39m: [31mError: MongooseServerSelectionError: connection <monitor> to 54.94.77.23:27017 closed[39m
+2022-06-01 19:15:46:1546 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 19:16:49:1649 [31merror[39m: [31mThe connection gone wrong.[39m
+2022-06-01 19:16:49:1649 [31merror[39m: [31mError: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.smnsjw12.mongodb.net[39m
+2022-06-01 19:16:49:1649 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 19:17:23:1723 [31merror[39m: [31mThe connection gone wrong.[39m
+2022-06-01 19:17:23:1723 [31merror[39m: [31mError: MongooseServerSelectionError: connection <monitor> to 54.94.16.62:27017 closed[39m
+2022-06-01 19:17:23:1723 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 19:18:48:1848 [31merror[39m: [31mThe connection gone wrong.[39m
+2022-06-01 19:18:48:1848 [31merror[39m: [31mError: MongooseServerSelectionError: connection <monitor> to 54.232.255.199:27017 closed[39m
+2022-06-01 19:18:48:1848 [32minfo[39m: [32mThe aplication is running on the port: 3000[39m
+2022-06-01 19:20:09:209 [31merror[39m: [31mThe connection gone wrong.[39m
+2022-06-01 19:20:09:209 [31merror[39m: [31mError: MongooseServerSelectionError: connection <monitor> to 54.94.16.62:27017 closed[39m
+2022-06-01 19:20:09:209 [32minfo[39m: [32mThe aplication is running on the port: 3000[39m
+2022-06-01 19:21:17:2117 [31merror[39m: [31mThe connection gone wrong.[39m
+2022-06-01 19:21:17:2117 [31merror[39m: [31mError: MongooseServerSelectionError: connection <monitor> to 54.94.77.23:27017 closed[39m
+2022-06-01 19:21:17:2117 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 19:38:49:3849 [31merror[39m: [31mThe connection gone wrong.[39m
+2022-06-01 19:38:49:3849 [31merror[39m: [31mError: MongoServerError: bad auth : Authentication failed.[39m
+2022-06-01 19:38:49:3849 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 19:40:50:4050 [31merror[39m: [31mThe connection gone wrong.[39m
+2022-06-01 19:40:50:4050 [31merror[39m: [31mError: MongoServerError: bad auth : Authentication failed.[39m
+2022-06-01 19:40:50:4050 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 19:41:29:4129 [31merror[39m: [31mThe connection gone wrong.[39m
+2022-06-01 19:41:29:4129 [31merror[39m: [31mError: MongoServerError: bad auth : Authentication failed.[39m
+2022-06-01 19:41:29:4129 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 19:43:36:4336 [31merror[39m: [31mThe connection gone wrong.[39m
+2022-06-01 19:43:36:4336 [31merror[39m: [31mError: MongoServerError: bad auth : Authentication failed.[39m
+2022-06-01 19:43:36:4336 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 19:43:42:4342 [31merror[39m: [31mThe connection gone wrong.[39m
+2022-06-01 19:43:42:4342 [31merror[39m: [31mError: MongoServerError: bad auth : Authentication failed.[39m
+2022-06-01 19:43:42:4342 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 19:43:46:4346 [31merror[39m: [31mThe connection gone wrong.[39m
+2022-06-01 19:43:46:4346 [31merror[39m: [31mError: MongoServerError: bad auth : Authentication failed.[39m
+2022-06-01 19:43:46:4346 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 19:46:10:4610 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 19:46:10:4610 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 19:47:34:4734 [31merror[39m: [31mThe connection gone wrong.[39m
+2022-06-01 19:47:34:4734 [31merror[39m: [31mError: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.smnsjw12.mongodb.net[39m
+2022-06-01 19:47:34:4734 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 19:47:52:4752 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 19:47:52:4752 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 19:48:22:4822 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 19:48:22:4822 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 19:48:36:4836 [31merror[39m: [31mThe connection gone wrong.[39m
+2022-06-01 19:48:41:4841 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 19:48:41:4841 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 20:00:54:054 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 20:00:54:054 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 20:01:31:131 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 20:01:31:131 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 20:02:09:29 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 20:02:09:29 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 20:02:21:221 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 20:02:21:221 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 20:02:37:237 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 20:02:37:237 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 20:02:46:246 [35mhttp[39m: [35mGET /api//test 200 12 - 1.970 ms[39m
+[35m[39m
+2022-06-01 20:02:55:255 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 20:02:55:255 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 20:03:10:310 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 20:03:10:310 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 20:03:12:312 [35mhttp[39m: [35mGET /api//test 200 12 - 1.834 ms[39m
+[35m[39m
