@@ -171,3 +171,30 @@
 2022-06-01 21:38:00:380 [32minfo[39m: [32mThe application is running on the port: 3000[39m
 2022-06-01 21:40:19:4019 [35mhttp[39m: [35mPOST /api//movie 201 403 - 46.367 ms[39m
 [35m[39m
+2022-06-01 22:02:00:20 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 22:02:00:20 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 22:02:17:217 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 22:02:17:217 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 22:03:09:39 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 22:03:09:39 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 22:03:22:322 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 22:03:22:322 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 22:04:03:43 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 22:04:03:43 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 22:04:13:413 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 22:04:13:413 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 22:05:35:535 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 22:05:35:535 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 22:06:50:650 [31merror[39m: [31mSystem error: Cast to ObjectId failed for value ":id" (type string) at path "_id" for model "Movie"[39m
+2022-06-01 22:06:55:655 [35mhttp[39m: [35mGET /api//movie/:id - - - - ms[39m
+[35m[39m
+2022-06-01 22:07:41:741 [35mhttp[39m: [35mGET /api//movie/6298060a722b5eb4cb8ac5b6 - - - - ms[39m
+[35m[39m
+2022-06-01 22:07:42:742 [35mhttp[39m: [35mGET /api//movie/6298060a722b5eb4cb8ac5b5 404 28 - 20.895 ms[39m
+[35m[39m
+2022-06-01 22:08:17:817 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 22:08:17:817 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 22:08:36:836 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 22:08:36:836 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 22:08:40:840 [35mhttp[39m: [35mGET /api//movie/6298060a722b5eb4cb8ac5b6 200 237 - 30.248 ms[39m
+[35m[39m
