@@ -85,3 +85,89 @@
 2022-06-01 20:18:41:1841 [32minfo[39m: [32mThe application is running on the port: 3000[39m
 2022-06-01 20:19:43:1943 [35mhttp[39m: [35mPOST /api//movie 200 22 - 1.964 ms[39m
 [35m[39m
+2022-06-01 20:22:06:226 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 20:22:06:226 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 20:22:22:2222 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 20:22:22:2222 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 20:23:16:2316 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 20:23:16:2316 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 20:23:27:2327 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 20:23:27:2327 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 20:24:45:2445 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 20:24:45:2445 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 20:26:17:2617 [35mhttp[39m: [35mPOST /api//movie 201 131 - 35.742 ms[39m
+[35m[39m
+2022-06-01 20:26:35:2635 [35mhttp[39m: [35mPOST /api//movie 201 131 - 26.033 ms[39m
+[35m[39m
+2022-06-01 20:27:20:2720 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 20:27:20:2720 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 20:27:22:2722 [35mhttp[39m: [35mPOST /api//movie 201 131 - 33.908 ms[39m
+[35m[39m
+2022-06-01 20:28:23:2823 [35mhttp[39m: [35mPOST /api//movie 201 152 - 22.927 ms[39m
+[35m[39m
+2022-06-01 20:29:11:2911 [35mhttp[39m: [35mPOST /api//movie 201 152 - 21.622 ms[39m
+[35m[39m
+2022-06-01 20:53:58:5358 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 20:53:58:5358 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 20:54:27:5427 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 20:54:27:5427 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 20:54:34:5434 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 20:54:34:5434 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 20:54:58:5458 [35mhttp[39m: [35mPOST /api//movie 201 151 - 47.039 ms[39m
+[35m[39m
+2022-06-01 20:55:29:5529 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 20:55:29:5529 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 21:11:21:1121 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 21:11:21:1121 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 21:11:30:1130 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 21:11:30:1130 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 21:11:44:1144 [35mhttp[39m: [35mPOST /api//movie 201 153 - 46.863 ms[39m
+[35m[39m
+2022-06-01 21:11:55:1155 [35mhttp[39m: [35mPOST /api//movie 422 47 - 1.161 ms[39m
+[35m[39m
+2022-06-01 21:24:32:2432 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 21:24:32:2432 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 21:24:42:2442 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 21:24:42:2442 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 21:25:02:252 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 21:25:02:252 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 21:25:31:2531 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 21:25:31:2531 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 21:25:48:2548 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 21:25:48:2548 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 21:26:02:262 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 21:26:02:262 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 21:26:34:2634 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 21:26:34:2634 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 21:26:37:2637 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 21:26:37:2637 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 21:27:59:2759 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 21:27:59:2759 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 21:28:17:2817 [35mhttp[39m: [35mPOST /api//movie 201 172 - 40.665 ms[39m
+[35m[39m
+2022-06-01 21:28:22:2822 [35mhttp[39m: [35mPOST /api//movie 422 64 - 1.541 ms[39m
+[35m[39m
+2022-06-01 21:32:35:3235 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 21:32:35:3235 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 21:32:55:3255 [35mhttp[39m: [35mPOST /api//movie 422 60 - 6.405 ms[39m
+[35m[39m
+2022-06-01 21:33:56:3356 [35mhttp[39m: [35mPOST /api//movie 201 211 - 36.861 ms[39m
+[35m[39m
+2022-06-01 21:35:21:3521 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 21:35:21:3521 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 21:35:34:3534 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 21:35:34:3534 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 21:35:48:3548 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 21:35:48:3548 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 21:35:54:3554 [35mhttp[39m: [35mPOST /api//movie 422 61 - 4.771 ms[39m
+[35m[39m
+2022-06-01 21:36:26:3626 [35mhttp[39m: [35mPOST /api//movie 201 237 - 33.651 ms[39m
+[35m[39m
+2022-06-01 21:37:35:3735 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 21:37:35:3735 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 21:37:37:3737 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 21:37:37:3737 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 21:38:00:380 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 21:38:00:380 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 21:40:19:4019 [35mhttp[39m: [35mPOST /api//movie 201 403 - 46.367 ms[39m
+[35m[39m
