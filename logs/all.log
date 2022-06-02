@@ -198,3 +198,112 @@
 2022-06-01 22:08:36:836 [32minfo[39m: [32mThe application is running on the port: 3000[39m
 2022-06-01 22:08:40:840 [35mhttp[39m: [35mGET /api//movie/6298060a722b5eb4cb8ac5b6 200 237 - 30.248 ms[39m
 [35m[39m
+2022-06-01 22:49:06:496 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 22:49:06:496 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 22:50:01:501 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 22:50:01:501 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 22:50:25:5025 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 22:50:25:5025 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 22:50:36:5036 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 22:50:36:5036 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 22:50:42:5042 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 22:50:42:5042 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 22:51:14:5114 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 22:51:14:5114 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 22:51:54:5154 [35mhttp[39m: [35mGET /api//movie 200 1487 - 32.207 ms[39m
+[35m[39m
+2022-06-01 22:52:57:5257 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 22:52:57:5257 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 22:53:13:5313 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 22:53:13:5313 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 22:53:50:5350 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 22:53:50:5350 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 22:54:16:5416 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 22:54:16:5416 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 22:56:00:560 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 22:56:00:560 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 22:56:33:5633 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 22:56:33:5633 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 22:58:04:584 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 22:58:04:584 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 22:58:08:588 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 22:58:08:588 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 22:58:15:5815 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 22:58:15:5815 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 22:58:17:5817 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 22:58:17:5817 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 22:59:44:5944 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 22:59:44:5944 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 23:00:46:046 [35mhttp[39m: [35mDELETE /api//movie 404 152 - 2.261 ms[39m
+[35m[39m
+2022-06-01 23:00:55:055 [31merror[39m: [31mSystem error: Cast to ObjectId failed for value "123" (type string) at path "_id" for model "Movie"[39m
+2022-06-01 23:00:55:055 [35mhttp[39m: [35mDELETE /api//movie/123 500 36 - 6.643 ms[39m
+[35m[39m
+2022-06-01 23:01:29:129 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 23:01:29:129 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 23:01:57:157 [31merror[39m: [31mSystem error: Cast to ObjectId failed for value "324563456" (type string) at path "_id" for model "Movie"[39m
+2022-06-01 23:01:57:157 [35mhttp[39m: [35mDELETE /api//movie/324563456 500 36 - 7.295 ms[39m
+[35m[39m
+2022-06-01 23:04:09:49 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 23:04:09:49 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 23:04:14:414 [31merror[39m: [31mSystem error: Cast to ObjectId failed for value "324563456" (type string) at path "_id" for model "Movie"[39m
+2022-06-01 23:04:14:414 [35mhttp[39m: [35mDELETE /api//movie/324563456 500 36 - 6.568 ms[39m
+[35m[39m
+2022-06-01 23:04:15:415 [31merror[39m: [31mSystem error: Cast to ObjectId failed for value "324563456" (type string) at path "_id" for model "Movie"[39m
+2022-06-01 23:04:15:415 [35mhttp[39m: [35mDELETE /api//movie/324563456 500 36 - 1.586 ms[39m
+[35m[39m
+2022-06-01 23:04:21:421 [31merror[39m: [31mSystem error: Cast to ObjectId failed for value ":id" (type string) at path "_id" for model "Movie"[39m
+2022-06-01 23:04:21:421 [35mhttp[39m: [35mDELETE /api//movie/:id 500 36 - 1.690 ms[39m
+[35m[39m
+2022-06-01 23:04:32:432 [35mhttp[39m: [35mDELETE /api//movie/6298060a722b5eb4cb8ac5b6 - - - - ms[39m
+[35m[39m
+2022-06-01 23:05:15:515 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 23:05:15:515 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 23:05:22:522 [35mhttp[39m: [35mDELETE /api//movie/6298060a722b5eb4cb8ac5b1 404 28 - 26.868 ms[39m
+[35m[39m
+2022-06-01 23:06:17:617 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 23:06:17:617 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 23:06:49:649 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 23:06:49:649 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 23:07:11:711 [35mhttp[39m: [35mDELETE /api//movie/62980421231c224344ad4bf9 200 36 - 53.678 ms[39m
+[35m[39m
+2022-06-01 23:07:14:714 [35mhttp[39m: [35mDELETE /api//movie/62980421231c224344ad4bf9 404 28 - 19.342 ms[39m
+[35m[39m
+2022-06-01 23:07:15:715 [35mhttp[39m: [35mDELETE /api//movie/62980421231c224344ad4bf9 404 28 - 18.227 ms[39m
+[35m[39m
+2022-06-01 23:08:05:85 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 23:08:05:85 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 23:09:50:950 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 23:09:50:950 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 23:10:58:1058 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 23:10:58:1058 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 23:11:53:1153 [35mhttp[39m: [35mPATCH /api//movie/62980421231c224344ad4bf9 404 28 - 27.964 ms[39m
+[35m[39m
+2022-06-01 23:12:11:1211 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 23:12:11:1211 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 23:12:22:1222 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 23:12:22:1222 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 23:12:56:1256 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 23:12:56:1256 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 23:13:11:1311 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 23:13:11:1311 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 23:13:50:1350 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 23:13:50:1350 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 23:14:19:1419 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 23:14:19:1419 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 23:14:35:1435 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 23:14:35:1435 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 23:16:55:1655 [31merror[39m: [31mSystem error: Performing an update on the path '_id' would modify the immutable field '_id'[39m
+2022-06-01 23:16:55:1655 [35mhttp[39m: [35mPATCH /api//movie/6297f647b483248cf5623774 500 36 - 54.818 ms[39m
+[35m[39m
+2022-06-01 23:17:17:1717 [31merror[39m: [31mSystem error: Performing an update on the path '_id' would modify the immutable field '_id'[39m
+2022-06-01 23:17:17:1717 [35mhttp[39m: [35mPATCH /api//movie/6297f647b483248cf5623774 500 36 - 39.603 ms[39m
+[35m[39m
+2022-06-01 23:17:42:1742 [35mhttp[39m: [35mPATCH /api//movie/6297f647b483248cf5623774 200 294 - 41.509 ms[39m
+[35m[39m
+2022-06-01 23:18:55:1855 [32minfo[39m: [32mConnected to database![39m
+2022-06-01 23:18:55:1855 [32minfo[39m: [32mThe application is running on the port: 3000[39m
+2022-06-01 23:19:08:198 [35mhttp[39m: [35mPATCH /api//movie/6297f647b483248cf5623774 422 98 - 10.761 ms[39m
+[35m[39m
+2022-06-01 23:19:21:1921 [35mhttp[39m: [35mPATCH /api//movie/6297f647b483248cf5623774 200 296 - 60.152 ms[39m
+[35m[39m
